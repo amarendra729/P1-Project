@@ -1,20 +1,20 @@
 # P1-Project
-📊 Stock Market ETL & Analysis Project
-📌 Overview
+# 📊 Stock Market Analysis 
+# 📌 Overview
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline using Python.
 It extracts stock market data, cleans and transforms it, stores it in a MySQL database, and generates analytical insights through visualizations.
 
 This project showcases skills in data engineering, SQL integration, data cleaning, and financial analysis.
 
-🚀 Features
-🔹 Data Extraction
+# 🚀 Features
+# 🔹 Data Extraction
 
 Loads stock datasets for multiple companies.
 
 Merges datasets into a unified DataFrame.
 
-🔹 Data Cleaning & Transformation
+# 🔹 Data Cleaning & Transformation
 
 Converts date column to proper datetime format.
 
@@ -36,13 +36,13 @@ daily_return
 
 return_category (Gain/Loss)
 
-🔹 Data Loading (ETL Pipeline)
+# 🔹 Data Loading (ETL Pipeline)
 
 Connects Python to MySQL using SQLAlchemy.
 
 Loads processed data into stock_prices table.
 
-🔹 Data Analysis & Insights
+# 🔹 Data Analysis & Insights
 
 📈 Daily closing price trends.
 
@@ -56,7 +56,7 @@ Loads processed data into stock_prices table.
 
 ⚠️ Detection of abnormal trading volume spikes.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Programming: Python
 
